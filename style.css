@@ -4,6 +4,10 @@
   border: none;
 }
 
+.ui.borderless.middlemenu.menu {
+  box-shadow: none;
+  border: none;
+}
 ui container {
  left-margin: 50px;
 }
